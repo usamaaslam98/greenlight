@@ -9,3 +9,4 @@ map Greenlight::Application.config.relative_url_root do
 end
 
 Rails.application.load_server
+hello
